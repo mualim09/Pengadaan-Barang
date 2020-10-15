@@ -1,5 +1,5 @@
 # Aplikasi Pengadaan Barang<br/>
-## www,satria.ga<br/>
+## www.satria.ga<br/>
 
 ### Aplikasi ini dibuat menggunakan
 - Codeigniter 3
@@ -8,6 +8,3 @@
 - Datatables
 - Chart.js
 
-### Keterangan <br/>
-Database : <code>ci_barang</code><br/>
-<br/>
