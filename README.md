@@ -1,5 +1,5 @@
 # Aplikasi Pengadaan Barang<br/>
-## Free Source Code<br/>
+## www,satria.ga<br/>
 
 ### Aplikasi ini dibuat menggunakan
 - Codeigniter 3
